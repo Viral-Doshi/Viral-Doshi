@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Viral-Doshi
 - 👀 I'm intrested in Coding
 - 🌱 I’m currently learning DSA
-- 💞️ Anyone who wishes to learn together can connect
-- 📫 2019174@iiitdmj.ac.in
 - 📫 viraldoshi321@gmail.com
 
 <!---
